@@ -1,0 +1,25 @@
+body {
+    max-width: 800px;
+    background-color: cornsilk;
+    font-family: Arial, sans-serif;
+    border: solid black 1px;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 16px;
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+p {
+    max-width: fit-content;
+    background-color: rosybrown;
+    margin: 16px;
+    padding: 8px;
+}
+h2 {
+    color: #666;
+    text-align: center;
+    margin: 20px;
+    padding: 16px;
+}
